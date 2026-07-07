@@ -1,51 +1,84 @@
-# ☠️ CYBER CORE
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║            CYBER SECURITY TERMINAL ONLINE           ║
-╠══════════════════════════════════════════════════════╣
-║ USER      : Sad1kov__                               ║
-║ LOCATION  : Uzbekistan 🇺🇿                          ║
-║ ROLE      : UzAI Developer                          ║
-║ STATUS    : ONLINE 🟢                               ║
-║ MODE      : CYBERPUNK                               ║
-║ ACCESS    : GRANTED ✔                               ║
-╚══════════════════════════════════════════════════════╝
-> Learn New Technologies
-> Build Amazing Projects
-> Improve Every Day
-> Never Stop Coding
-💀 Coding Mood
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00ff99,100:00ccff&text=👾%20SAD1KOV__&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
 
-💻 "Turning coffee into code."
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Sad1kov__;💻+UzAI+Developer;🇺🇿+From+Uzbekistan;🤖+Robotics+%7C+Python+%7C+AI;⚡+Dream.+Code.+Create.;🚀+Welcome+to+my+GitHub!"/>
 
-🚀 "Every bug is a puzzle."
+<br>
 
-⚡ "Dream • Code • Create."
+<a href="https://instagram.com/sad1kov__">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
 
-### Qo'shish mumkin bo'lgan GIF va elementlar
+&nbsp;&nbsp;&nbsp;
 
-- 🟢 Matrix terminal GIF
-- 🤖 Robot coding GIF
-- ☕ Coffee coding GIF
-- 💻 Hacker terminal GIF
-- 🎮 Pixel-art GIF
-- 🌌 Neon banner
-- 🐍 Snake animation
-- 📊 GitHub Stats
-- 🏆 GitHub Trophies
-- 📈 Activity Graph
-- 👀 Visitor Counter
+<a href="https://t.me/Sad1kov_7">
+<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
+</a>
 
-### Muhim eslatma
+&nbsp;&nbsp;&nbsp;
 
-Internetda uchraydigan "3D GitHub README"larning aksariyati aslida:
-- banner rasmlari,
-- GIF animatsiyalar,
-- SVG animatsiyalar,
-- GitHub Actions,
-- va tashqi xizmatlardan foydalanadi.
+<a href="mailto:abdunazarova151@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
 
-README ichining o'zida haqiqiy 3D sahna yoki JavaScript animatsiyalarini ishlatib bo'lmaydi.
+<br><br>
 
-Agar sizning maqsadingiz **GitHub'ni ochgan odam "VOV!" desin** bo'lsa, men sizga **cyberpunk/neon** uslubidagi, tartibli va professional profil yaratishni tavsiya qilaman. Haddan tashqari ko'p GIF va mem qo'shish esa ba'zan profilni professional emas, tartibsiz qilib ko'rsatadi. Muvozanatli dizayn odatda eng kuchli taassurot qoldiradi.
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/COUNTRY-UZBEKISTAN-00ccff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ROLE-UzAI%20Developer-ff00ff?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💻 Terminal
+
+```bash
+$ whoami
+Sad1kov__
+
+$ country
+Uzbekistan 🇺🇿
+
+$ role
+UzAI Developer
+
+$ status
+ONLINE 🟢
+
+$ mission
+Create Awesome Projects 🚀
+```
+
+---
+
+## ⚡ Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github,vscode,html,css"/>
+
+</p>
+
+---
+
+## 😂 Developer Mood
+
+<p align="center">
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320"/>
+
+</p>
+
+---
+
+<h2 align="center">🔥 Thanks For Visiting 🔥</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00FF99&center=true&width=700&lines=Happy+Coding!;See+You+Again!;UzAI+Developer+🚀"/>
+</p>
