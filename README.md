@@ -1,129 +1,51 @@
-# 💻 SYSTEM BOOT
+# ☠️ CYBER CORE
 
 ```text
-███████╗ █████╗ ██████╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗
-██╔════╝██╔══██╗██╔══██╗███║██║ ██╔╝██╔═══██╗██║   ██║
-███████╗███████║██║  ██║╚██║█████╔╝ ██║   ██║██║   ██║
-╚════██║██╔══██║██║  ██║ ██║██╔═██╗ ██║   ██║╚██╗ ██╔╝
-███████║██║  ██║██████╔╝ ██║██║  ██╗╚██████╔╝ ╚████╔╝
-╚══════╝╚═╝  ╚═╝╚═════╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
-```
+╔══════════════════════════════════════════════════════╗
+║            CYBER SECURITY TERMINAL ONLINE           ║
+╠══════════════════════════════════════════════════════╣
+║ USER      : Sad1kov__                               ║
+║ LOCATION  : Uzbekistan 🇺🇿                          ║
+║ ROLE      : UzAI Developer                          ║
+║ STATUS    : ONLINE 🟢                               ║
+║ MODE      : CYBERPUNK                               ║
+║ ACCESS    : GRANTED ✔                               ║
+╚══════════════════════════════════════════════════════╝
+> Learn New Technologies
+> Build Amazing Projects
+> Improve Every Day
+> Never Stop Coding
+💀 Coding Mood
 
-```bash
-[BOOT] Initializing System...
-[OK] Loading Kernel...
-[OK] Loading AI Engine...
-[OK] Connecting GitHub...
-[OK] Access Granted ✔
-```
+💻 "Turning coffee into code."
 
----
+🚀 "Every bug is a puzzle."
 
-# 💻 HACKER TERMINAL
+⚡ "Dream • Code • Create."
 
-```bash
-root@github:~$ whoami
-Sad1kov__
+### Qo'shish mumkin bo'lgan GIF va elementlar
 
-root@github:~$ uname -a
-UzAI Developer | Uzbekistan 🇺🇿
+- 🟢 Matrix terminal GIF
+- 🤖 Robot coding GIF
+- ☕ Coffee coding GIF
+- 💻 Hacker terminal GIF
+- 🎮 Pixel-art GIF
+- 🌌 Neon banner
+- 🐍 Snake animation
+- 📊 GitHub Stats
+- 🏆 GitHub Trophies
+- 📈 Activity Graph
+- 👀 Visitor Counter
 
-root@github:~$ skills
+### Muhim eslatma
 
-▣ Python
-▣ Arduino
-▣ Robotics
-▣ Artificial Intelligence
-▣ Linux
-▣ Git
-▣ GitHub
+Internetda uchraydigan "3D GitHub README"larning aksariyati aslida:
+- banner rasmlari,
+- GIF animatsiyalar,
+- SVG animatsiyalar,
+- GitHub Actions,
+- va tashqi xizmatlardan foydalanadi.
 
-root@github:~$ sudo login
+README ichining o'zida haqiqiy 3D sahna yoki JavaScript animatsiyalarini ishlatib bo'lmaydi.
 
-████████████████████████████ 100%
-
-ACCESS GRANTED ✔
-```
-
----
-
-# 🧠 SYSTEM INFORMATION
-
-```yaml
-Name: Sad1kov__
-Role: UzAI Developer
-Country: Uzbekistan 🇺🇿
-Status: ONLINE 🟢
-
-Programming:
-  - Python
-  - C++
-  - Arduino
-
-Learning:
-  - Django
-  - PostgreSQL
-  - Linux
-```
-
----
-
-# 🔐 ENCRYPTED DATA
-
-```text
-01001001 00100000 01100001 01101101
-01010011 01100001 01100100 00110001
-01101011 01101111 01110110
-
-█████████████████████████████
-ACCESS GRANTED
-█████████████████████████████
-```
-
----
-
-# ⚡ SYSTEM STATUS
-
-```text
-CPU        ████████████████████ 100%
-RAM        ████████████████████ 100%
-NETWORK    ████████████████████ ONLINE
-SECURITY   ████████████████████ ENABLED
-AI CORE    ████████████████████ ACTIVE
-```
-
----
-
-# ☕ Coffee Loading...
-
-```text
-██████████████████████████████ 100%
-
-READY TO CODE...
-```
-
----
-
-# 🚀 Mission
-
-```bash
-Mission:
-✔ Learn
-✔ Build
-✔ Share
-✔ Never Give Up
-```
-
----
-
-<p align="center">
-
-⚡ Dream • Code • Build • Repeat ⚡
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff00,100:000000"/>
-
-</p>
+Agar sizning maqsadingiz **GitHub'ni ochgan odam "VOV!" desin** bo'lsa, men sizga **cyberpunk/neon** uslubidagi, tartibli va professional profil yaratishni tavsiya qilaman. Haddan tashqari ko'p GIF va mem qo'shish esa ba'zan profilni professional emas, tartibsiz qilib ko'rsatadi. Muvozanatli dizayn odatda eng kuchli taassurot qoldiradi.
